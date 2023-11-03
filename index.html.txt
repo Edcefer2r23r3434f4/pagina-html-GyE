@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TE AMO</title>
+</head>
+<body style="background-color: rgb(255, 0, 0); color: blue;">
+    <h1>Te amo mucho mi amor</h1>
+    <img src="https://ibb.co/YyKw6px" alt="Te amo hermosa Mia">
+    <p>Eres la mejor</p>
+    <a href="https://m.youtube.com/watch?v=n7Ff18yN_ek&list=PLoL30SMkh6SWJQ8GjkBosBAXgX4blQfCP&index=23&pp=gAQBiAQB8AUB" target="green">
+        <button>Toca aquí</button>
+    </a>
+</body>
+</html>
